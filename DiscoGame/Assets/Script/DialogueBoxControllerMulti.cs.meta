@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd84a9efd4c8a954f88b1559071aeca8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueText: {fileID: 4497796055910471289, guid: 935523f6bc0df5449b5e802b282887ae, type: 3}
+  - nameText: {fileID: 1087275744813306792, guid: 13489a4d1657fed4894e1a6f6fe778ea, type: 3}
+  - dialogueBox: {fileID: 2804788281930339959, guid: 4179879d8dc7a4142b5a37911210464f, type: 3}
+  - answerBox: {fileID: 2804788281930339959, guid: 4179879d8dc7a4142b5a37911210464f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
